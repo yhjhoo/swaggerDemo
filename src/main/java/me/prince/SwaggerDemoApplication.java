@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan("me.prince")
 public class SwaggerDemoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SwaggerDemoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SwaggerDemoApplication.class, args);
+    }
 }
